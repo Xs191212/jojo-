@@ -8,7 +8,7 @@ android {
     compileSdk 36
 
     defaultConfig {
-        applicationId "com.FJTYZ.sounder.jojo欧拉"
+        applicationId "com.FJTYZ.sounder.jojo"
         minSdk 23
         targetSdk 36
         versionCode 1
